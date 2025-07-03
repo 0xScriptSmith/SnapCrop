@@ -69,6 +69,8 @@ You can then paste it into:
 
 ## 🛠️ Project Structure
 
+```
+
 snapcrop-extension/
 ├── manifest.json
 ├── background.js
@@ -76,3 +78,4 @@ snapcrop-extension/
 ├── icons/
 │     └── icon.png
 └── README.md
+```
